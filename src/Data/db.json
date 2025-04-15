@@ -1,0 +1,25 @@
+{
+  "funcionarios": [
+    {
+        "id": "1",
+        "nome": "João Silva",
+        "cargo": "Administrador",
+        "email": "joao.silva@empresa.com",
+        "senha": "senha123"
+    },
+    {
+        "id": "2",
+        "nome": "Maria Oliveira",
+        "cargo": "Recepcionista",
+        "email": "maria.oliveira@empresa.com",
+         "senha": "senha123"
+    },
+    {
+        "id": "3",
+        "nome": "Carlos Pereira",
+        "cargo": "Segurança",
+        "email": "carlos.pereira@empresa.com",
+         "senha": "senha123"
+    }
+]
+}
