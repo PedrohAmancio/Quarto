@@ -6,9 +6,8 @@ import Cadastro from "../components/Cadastro";
 import Tabela from "../components/Tabela";
 import Excluir from "../components/Excluir";
 
-import {mostrar} from "../hooks/UseApi";
+// import {mostrar} from "../hooks/UseApi.js";
 const Home = () => {
-  console.log(mostrar())
   return (
       <div className="d-flex flex-wrap" >
         <Col xs={6} style={{ backgroundColor: "#eee" }}>

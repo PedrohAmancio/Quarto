@@ -1,25 +1,53 @@
 {
   "funcionarios": [
     {
-        "id": "1",
-        "nome": "João Silva",
-        "cargo": "Administrador",
-        "email": "joao.silva@empresa.com",
-        "senha": "senha123"
+      "id": "1",
+      "nome": "João Silva",
+      "cargo": "Administrador",
+      "email": "joao.silva@empresa.com",
+      "senha": "senha123"
     },
     {
-        "id": "2",
-        "nome": "Maria Oliveira",
-        "cargo": "Recepcionista",
-        "email": "maria.oliveira@empresa.com",
-         "senha": "senha123"
+      "id": "2",
+      "nome": "Maria Oliveira",
+      "cargo": "Recepcionista",
+      "email": "maria.oliveira@empresa.com",
+      "senha": "senha123"
     },
     {
-        "id": "3",
-        "nome": "Carlos Pereira",
-        "cargo": "Segurança",
-        "email": "carlos.pereira@empresa.com",
-         "senha": "senha123"
+      "id": "3",
+      "nome": "Carlos Pereira",
+      "cargo": "Segurança",
+      "email": "carlos.pereira@empresa.com",
+      "senha": "senha123"
+    },
+    {
+      "id": "3fce",
+      "nome": "Neymar",
+      "email": "eu@eumesmo.com",
+      "senha": "aiscaeoanzol",
+      "tipo": "Administrador"
+    },
+    {
+      "id": "a814",
+      "nome": "Neymar",
+      "email": "eu@eumesmo.com",
+      "senha": "aiscaeoanzol",
+      "tipo": "Administrador"
+    },
+    {
+      "id": "878d",
+      "nome": "Neymar",
+      "email": "eu@eumesmo.com",
+      "senha": "aiscaeoanzol",
+      "tipo": "Administrador"
+    },
+    {
+      "id": "f9a1",
+      "nome": "Neymar",
+      "email": "eu@eumesmo.com",
+      "senha": "aiscaeoanzol",
+      "tipo": "Administrador"
     }
-]
+  ]
 }
